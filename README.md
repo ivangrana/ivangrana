@@ -4,14 +4,14 @@
 
 <div align="center">
   <a href="https://github.com/ivangrana">
-  <img height="180em" src=http://github-readme-streak-stats.herokuapp.com?user=ivangrana&theme=merko&background=000000/>
+  <img height="180em" src=http://github-readme-streak-stats.herokuapp.com?user=ivangrana&theme=dark&background=000000/>
 </div>
 
 
 <div align="center">
   <a href="https://github.com/ivangrana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivangrana&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangrana&layout=default&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivangrana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangrana&layout=default&langs_count=7&theme=dark"/>
 </div>
   
  
