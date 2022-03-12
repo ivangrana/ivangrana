@@ -24,6 +24,9 @@
 
 <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg">
 
+<img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/r/r-original.svg">
+
+
 
   
  ##
@@ -39,5 +42,6 @@
   
 <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
   
-
- 
+<img align="center" alt="VS code" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg">
+  
+<img align="center" height="30" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
