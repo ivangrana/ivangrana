@@ -1,3 +1,8 @@
+## About me:
+- Learning JavaScript
+- 
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -15,16 +20,15 @@
 </div>
   
  
-  
-  
   <div style="display: inline_block"><br>
+    <h3> My favorite languages:<h3>
   <img align="center" alt="ivangrana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
 <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg">
 
 <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg">
 
-<img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/r/r-original.svg">
+<img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">
 
 
 
@@ -34,7 +38,7 @@
   <a href = "mailto:ivangrana1956@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div/> 
 
- <h3> My favorite tools: </h3>  
+ <h3> My favorite tools: <h3>  
 
 <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
     
