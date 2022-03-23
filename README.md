@@ -1,17 +1,16 @@
 ## About me:
 - Learning JavaScript
-- 
-
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://c.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" width="600"/>
 </div>
+
 
 <div align="center">
   <a href="https://github.com/ivangrana">
   <img height="180em" src=http://github-readme-streak-stats.herokuapp.com?user=ivangrana&theme=dark&background=000000/>
 </div>
 
+ 
 
 <div align="center">
   <a href="https://github.com/ivangrana">
@@ -49,3 +48,5 @@
 <img align="center" alt="VS code" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg">
   
 <img align="center" height="30" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
+
+<img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
