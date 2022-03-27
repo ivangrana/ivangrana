@@ -7,15 +7,15 @@
 
 <div align="center">
   <a href="https://github.com/ivangrana">
-  <img height="180em" src=http://github-readme-streak-stats.herokuapp.com?user=ivangrana&theme=dark&background=000000/>
+  <img height="180em" src=http://github-readme-streak-stats.herokuapp.com?user=ivangrana&theme=tokyonight&background=000000/>
 </div>
 
  
 
 <div align="center">
   <a href="https://github.com/ivangrana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivangrana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangrana&layout=default&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivangrana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangrana&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
  
@@ -50,3 +50,8 @@
 <img align="center" height="30" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
 
 <img align="center" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
+
+   
+
+
+ 
