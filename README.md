@@ -34,7 +34,8 @@
   
  ##
 <div> 
-  <a href = "mailto:ivangrana1956@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:ivangrana1956@gmail.com"><img src="https://img.shields.io/badge/-ivangrana1956@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/ivan_granaa"><img src="https://img.shields.io/badge/-@ivan_granaa-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <div/> 
   
  <div id="header" align="center">
