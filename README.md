@@ -1,5 +1,6 @@
 ## About me:
 - Learning JavaScript
+-Currently studying Data Science
 <div id="header" align="center">
   <img src="https://c.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" width="600"/>
 </div>
