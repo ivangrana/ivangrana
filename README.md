@@ -1,7 +1,9 @@
 ## About me:
-- Learning JavaScript
-
-- Currently studying Data Science
+- Data analyst/Pentester/Full-stack developer
+- LabSC volunteer
+```javascript
+let languages = [Portuguese,English,Italian]
+```
 <div id="header" align="center">
   <img src="https://c.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" width="600"/>
 </div>
