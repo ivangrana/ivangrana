@@ -4,17 +4,15 @@
 ```javascript
 let languages = [Portuguese,English,Italian]
 ```
-<div id="header" align="center">
-  <img src="https://c.tenor.com/TuYN6dmAclUAAAAd/cyberpunk.gif" width="600"/>
-</div>
-
 
 <div align="center">
   <a href="https://github.com/ivangrana">
   <img height="180em" src=http://github-readme-streak-stats.herokuapp.com?user=ivangrana&theme=tokyonight&background=000000/>
 </div>
-
- 
+  
+<div id="header" align="center">
+  <img src="https://64.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" width="600"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/ivangrana">
