@@ -1,9 +1,35 @@
+ <div id="header" align="center">
+ <img src="https://c.tenor.com/jIfa4bdSdxAAAAAC/cyberpunk.gif" width="600"/>
+</div>
+
 ## About me:
 - Data analyst/Pentester/Full-stack developer
+
+<div> 
+  <a href="mailto:ivangrana1956@gmail.com"><img src="https://img.shields.io/badge/-ivangrana1956@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/ivan_granaa"><img src="https://img.shields.io/badge/-@ivan_granaa-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<div/> 
+  
+
+
 - LabSC volunteer
 ```javascript
 let languages = [Portuguese,English,Italian]
 ```
+
+# My front-end tools:
+- VueJS
+- CSS Tailwind
+
+# My back-end tools:
+## Database:
+- MySQL
+- SQLite
+## Frameworks:
+- AdonisJS
+- Flask
+- Django
+
 
 <div align="center">
   <a href="https://github.com/ivangrana">
@@ -23,26 +49,14 @@ let languages = [Portuguese,English,Italian]
  
   <div style="display: inline_block"><br>
     <h3> My favorite languages:<h3>
-  <img align="center" alt="ivangrana-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ivangrana-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
  
-<img align="center" height="60" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg">
+<img align="center" height="60" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg"> C++
 
-<img align="center" height="60" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg">
+<img align="center" height="60" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg"> C
 
-<img align="center" height="60" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg">
+<img align="center" height="60" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg"> Javascript
 
-
-
-  
- ##
-<div> 
-  <a href="mailto:ivangrana1956@gmail.com"><img src="https://img.shields.io/badge/-ivangrana1956@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/ivan_granaa"><img src="https://img.shields.io/badge/-@ivan_granaa-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<div/> 
-  
- <div id="header" align="center">
- <img src="https://c.tenor.com/jIfa4bdSdxAAAAAC/cyberpunk.gif" width="600"/>
-</div>
 
  <h3> My favorite tools: <h3>  
 
@@ -60,7 +74,9 @@ let languages = [Portuguese,English,Italian]
 
 <img align="center" height="60" width="60" src= "https://seeklogo.com/images/A/adonis-logo-56A7844207-seeklogo.com.png">
 
-   
+<img align="center" height="60" width="60" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
+
+
 
 
  
