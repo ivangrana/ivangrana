@@ -3,7 +3,7 @@
 </div>
 
 ## About me:
-- Data analyst/Pentester/Full-stack developer
+- Pentester/Full-stack developer
 
 <div> 
   <a href="mailto:ivangrana1956@gmail.com"><img src="https://img.shields.io/badge/-ivangrana1956@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -20,6 +20,7 @@ let languages = [Portuguese,English,Italian]
 # My front-end tools:
 - VueJS
 - CSS Tailwind
+- Vuetify
 
 # My back-end tools:
 ## Database:
@@ -30,6 +31,13 @@ let languages = [Portuguese,English,Italian]
 - Flask
 - Django
 
+# Desktop:
+- Electron
+
+# Mobile:
+- Ionic
+- Capacitor
+- Swift
 
 <div align="center">
   <a href="https://github.com/ivangrana">
