@@ -68,7 +68,7 @@ let languages = [Portuguese,English,Italian]
 <img align="center" height="80" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"> Rust
 
 
- <h3> My favorite tools: <h3>  
+<h3> My favorite tools: <h3>  
 
 <img align="center" alt="VS code" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
     
