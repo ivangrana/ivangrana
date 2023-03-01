@@ -65,7 +65,7 @@ let languages = [Portuguese,English,Italian]
 
 <img align="center" height="60" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg"> Javascript
 
-<img align="center" height="80" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"> Rust
+<img align="center" height="80" width="80" src= "https://cdn.worldvectorlogo.com/logos/c--4.svg"> C#
 
 
 <h3> My favorite tools: <h3>  
@@ -85,8 +85,3 @@ let languages = [Portuguese,English,Italian]
 <img align="center" height="60" width="60" src= "https://seeklogo.com/images/A/adonis-logo-56A7844207-seeklogo.com.png">
 
 <img align="center" height="60" width="60" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
-
-
-
-
- 
