@@ -26,10 +26,12 @@ let languages = [Portuguese,English,Italian]
 ## Database:
 - MySQL
 - SQLite
+- MongoDB
 ## Frameworks:
 - AdonisJS
 - Flask
 - Django
+- ExpressJS
 
 # Desktop:
 - Electron
