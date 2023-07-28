@@ -67,7 +67,7 @@ let languages = [Portuguese,English,Italian]
 
 <img align="center" height="60" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg"> Javascript
 
-<img align="center" height="80" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg"> Rust
+<img align="center" height="60" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"> C#
 
 
 <h3> My favorite tools: <h3>  
